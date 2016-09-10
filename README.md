@@ -10,3 +10,4 @@ A simple Q-learning model applied to the following toy example: optimize the bid
  | n1 |   l2    | n3 |
  |____|         |____|
 ```
+Uses CVXPY (http://www.cvxpy.org/en/latest/) and Gurobi (http://www.gurobi.com/) to solve the market clearing problem.
